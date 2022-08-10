@@ -1,2 +1,2 @@
-#C
-Those files in this project are for learning C language
+# C
+Those files in this project are for learning C language.
